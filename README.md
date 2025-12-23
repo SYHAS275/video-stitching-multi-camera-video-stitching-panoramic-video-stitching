@@ -35,7 +35,7 @@ Dataset- waymo dataset and custom datasets
 ![3 Camera Output](assets/result1.png)
 
 ## 🎥 Demo Video
-👉 [Download 3-Camera Demo](assets/demo_3cam.mp4)
+👉 [Download 3-Camera Demo](assets/demo.mp4)
 
 
 ## Requirements
