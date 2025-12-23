@@ -6,7 +6,7 @@ GPU-accelerated video panorama stitcher for multi-camera setups. Combines footag
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-green.svg)
 ![CUDA](https://img.shields.io/badge/CUDA-optional-orange.svg)
 
-dataset- waymo dataset
+Dataset- waymo dataset and custom datasets
 
 ## Features
 
