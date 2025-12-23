@@ -48,7 +48,7 @@ STATIC DATSASET 2(USE NO GPU STATIC.PY) - https://drive.google.com/drive/folders
 ![2 Camera Output](assets/static.png)
 
 ### 3-Camera Stitching
-![3 Camera Output](assets/result1.png)
+![3 Camera Output](assets/3cam.png)
 
 ## 🎥 Demo Video
 👉 [Download 3-Camera Demo](assets/demo.gif)
